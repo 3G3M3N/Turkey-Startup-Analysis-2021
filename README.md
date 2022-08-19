@@ -2,7 +2,7 @@
 
 Hello, ı used this dataset from https://www.kaggle.com/datasets/ramjasmaurya/best-cities-and-countries-for-startups-in-2021.
 
-In this dataset we have 101 country.
+There is a 101 country in this dataset.
 
 USA have 124.420 score so they are first on the list, second is UK they have 28.719 score so USA is the by far best countrie for startup.
 
